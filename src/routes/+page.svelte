@@ -3,7 +3,7 @@
   import hero from "$lib/assets/hero.jpg";
   import Navbar from "$lib/components/Navbar.svelte";
 
-  const trailerUrl = "https://www.youtube.com/embed/pkkngo38Vmc?si=LGa3OnkV5cJ22eQM"
+  const trailerUrl = "https://drive.google.com/file/d/1FxrKI87gDzcCPqaiPoFHASBk1nZhDX6r/preview"
 </script>
 
 <Navbar></Navbar>
